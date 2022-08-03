@@ -1,0 +1,25 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+#song_name
+{
+    font-size: 23px;
+    letter-spacing: 3px;
+    font-family: cursive;
+    text-shadow: 3px 3px 10px gray;
+} 
